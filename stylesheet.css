@@ -1,0 +1,80 @@
+main {
+    margin: 20px;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 50px;
+    padding-left: 0px;
+}
+
+#img {
+   width: calc(20% - 70px);
+   margin: 35px;
+   margin-top: 5%;
+   min-width: 150px;
+}
+
+#form {
+    width: 500px;
+    margin: 35px;
+    margin-top: 0px;
+}
+
+fieldset {
+    border: none;
+}
+
+label, input{
+    display: block;
+}
+
+label {
+    font-weight: 700;
+    margin-bottom: 7px;
+}
+
+input {
+    margin-bottom: 20px;
+    width: 400px;
+    height: 30px;
+}
+
+li {
+    margin: 3px 20px;
+}
+
+#ofertas {
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+#boton {
+    width: 65px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
+
+#center {
+    width: 415px;
+    display: flex;
+    align-items: center;
+}
+
+#oferta {
+    margin: 0px;
+    width: 365px;
+}
+
+.margin {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
